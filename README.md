@@ -1,1 +1,1 @@
-A project from robotjacket (Robowrestling). 
+This repository contains the code developed by my team and me for the RoboWrestling robot as part of Georgia Tech’s RobotJacket project. It defines the robot’s behavior. The robot was built using a Teensy 4.1 microcontroller, with the code written in C++ and developed on the PlatformIO platform.
